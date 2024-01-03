@@ -5,7 +5,7 @@ Download the File and open in any code Editor and open the terminal
 1) cd OpeninApp
 2) npm i
    
-After the creation of node_modules/ \n
+After the creation of node_modules/ 
 
 Go to https://console.cloud.google.com/ .
 
